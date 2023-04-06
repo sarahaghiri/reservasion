@@ -1,5 +1,10 @@
+import Header from '../components/header';
 const index = () => {
-  return <div>Enter</div>;
+  return (
+    <div>
+      
+    </div>
+  );
 };
 
 export default index;
